@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "l2o-cyber-defense"
+version = "0.1.0"
+description = "Learning-to-optimize methods for bi-level cybersecurity defense problems"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy",
+  "matplotlib",
+  "torch",
+  "networkx",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

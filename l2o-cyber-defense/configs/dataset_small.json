@@ -1,0 +1,8 @@
+{
+  "num_mats": 20,
+  "nmin": 12,
+  "nmax": 24,
+  "edge_prob": 0.3,
+  "rho": 0.9,
+  "out": "data/dag_dataset_small.pt"
+}

@@ -1,0 +1,15 @@
+{
+  "K": 5,
+  "Ksum": 15,
+  "alpha": 0.5,
+  "epochs": 10,
+  "lr": 0.05,
+  "train_mats": 12,
+  "test_mats": 6,
+  "nmin": 10,
+  "nmax": 18,
+  "edge_prob": 0.3,
+  "rho": 0.9,
+  "seed": 0,
+  "save_results": "results/quickstart_train.json"
+}
