@@ -4,6 +4,7 @@ This repository contains research code associated with the ANR JCJC project on l
 For related work using the Active Directory (AD) simulator in this setting, see the following repository:
 [https://github.com/Lilianltd/Markov_Budget
 ](https://github.com/Lilianltd/Markov_Budget/tree/main/adsimulator_graph_generator)
+
 This latter repository was developed by some of my students (Lilian LETARD, Jean VAN DYK, Louis VIRBEL) that I got the chance to work with, and we are currently working on merging it with the present codebase to provide a unified framework.
 The codebase is organized as a **small library**:
 - reusable code lives in `src/l2o_cyber_defense/`
