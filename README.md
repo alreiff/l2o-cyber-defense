@@ -7,7 +7,7 @@ For related work using the Active Directory (AD) simulator in this setting, see 
 
 This latter repository was developed by some of my students (Lilian LETARD, Jean VAN DYK, Louis VIRBEL) that I got the chance to work with, and we are currently working on merging it with the present codebase to provide a unified framework.
 
-Part of this work builds upon a pedagogical cybersecurity project developed with students (Edouard BOUTOILLE, Julien PICOT, Pierre LENOIR, Mael HUSSANT and Tristan BLANC), available at  [Active Directory attack simulator]([https://github.com/Lilianltd/Markov_Budget/tree/main/adsimulator_graph_generator](https://edouardbout.github.io/projet_cyber_brest/context/ad-explanation/))
+Part of this work builds upon a pedagogical cybersecurity project developed with students (Edouard BOUTOILLE, Julien PICOT, Pierre LENOIR, Mael HUSSANT and Tristan BLANC), available at  [Active Directory attack simulator](https://edouardbout.github.io/projet_cyber_brest/context/ad-explanation/))
 . This project focuses on hands-on exploration of cyber attack and defense mechanisms through simulation and practical experimentation, with an emphasis on understanding real-world vulnerabilities and system behaviors. It provides a different perspective to the present repository, which develops learning-based optimization methods for cyber defense. We are currently working on bridging these two approaches to build a unified framework combining simulation, modeling, and learning for cybersecurity on graphs.
 
 
